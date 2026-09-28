@@ -5,7 +5,7 @@ public class CampusQueueManager {
 
     static final String URL = "jdbc:mysql://localhost:3306/campus_queue";
     static final String USER = "queue_user";
-    static final String PASSWORD = "Queue@123";
+    static final String PASSWORD = "YOUR PASSWORD";
 
     static Scanner sc = new Scanner(System.in);
 
